@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miss You Pop-up</title>
+    <link rel="stylesheet" href="styles.css">
+<style type="text/css" id="dcoder_stylesheet">body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #FF5733;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    animation: pop-up 0.5s ease-in-out;
+}
+
+.popup-text {
+    font-size: 24px;
+}
+
+@keyframes pop-up {
+    0% {
+        transform: translate(-50%, -50%) scale(0.7);
+        opacity: 0;
+    }
+    100% {
+        transform: translate(-50%, -50%) scale(1);
+        opacity: 1;
+    }
+}
+</style></head>
+<body>
+    <button id="popupButton">Click Me</button>
+    <div class="popup" id="popup">
+        <span class="popup-text">I miss you</span>
+    </div>
+    <script src="script.js"></script>
+
+<script type="text/javascript" id="dcoder_script">document.getElementById('popupButton').addEventListener('click', function () {
+    const popup = document.getElementById('popup');
+    popup.style.display = 'block';
+
+    setTimeout(function () {
+        popup.style.display = 'none';
+    }, 2000); // Hide the popup after 2 seconds
+});
+</script></body></html>
