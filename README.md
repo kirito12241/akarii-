@@ -6,11 +6,11 @@ hii love
 
 I just wanted to use this unique way to express my feelings for you. ❤️
 
-## m Note 1
+##  Note 1
 
 
-Every moment with you is like discovering a new star in the sky 
-each one shining brighter than the last. You are my celestial wonder, illuminating my world with love and light. 
+each one shining brighter than the last. You are my celestial wonder, illuminating my world with love and light.
+
 
 
 ##  Note 2
