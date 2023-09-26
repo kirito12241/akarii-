@@ -8,7 +8,10 @@ I just wanted to use this unique way to express my feelings for you. ❤️
 
 ## m Note 1
 
-You light up my world with your smile. 
+
+Every moment with you is like discovering a new star in the sky 
+each one shining brighter than the last. You are my celestial wonder, illuminating my world with love and light. 
+
 
 ##  Note 2
 
@@ -23,6 +26,8 @@ Your kindness and beauty inspire me every day.
 You make life brighter and more meaningful. 
 
 ## cringe kona
+
+simple but unique hihi I love you
 
 sorry. 
 
