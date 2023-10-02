@@ -1,11 +1,17 @@
-# To My Special Someone 💖
+ # To My Special Someone 💖
 
-Hey love! 👋 Just a little note in my GitHub README because you're my favorite part of every code. 🌈
+Hey there, my akari Just dropping a sweet message, well, you're my favorite Wla fav na kita gusto kolang gawan ka neto for saying thankyou kasi lagi kang ano andyan for me what if tayo talaga tapos hindi lang ngayon? HAHAHHA uwu
 
-Feel the warmth of my love in this GIF: ![Love GIF](your_love_gif_link_here)
+![Love GIF](your_love_gif_link_here)
 
-Click the button below for a special message:
+Feel the love by clicking the button below:
 
-[Open Your Heart](your_special_button_link_here)
+[Click Me for Love](#click-me)
 
-Love you endlessly! 💑
+<details>
+  <summary>Love Message</summary>
+  appreciate ko lahat kahit sa katarantaduhan HAHAHHAAH walaa thanks for everything
+  na palagi kalang andyan sana ganyan kapa den sa mga susunod na taon or month mwap
+  ditoo lang din naman if need mo ng sisira sa araw mo HAHAHAHA always here for you anytime wag lang tulog ako hihi
+</details>
+
